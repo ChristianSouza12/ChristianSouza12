@@ -25,3 +25,8 @@ I'm constantly seeking challenges to enhance my skills. :dart:
 <a href="https://www.linkedin.com/in/christian-souzaa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <a href="https://www.instagram.com/christiann_souza/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianSouza12&show_icons=true&theme=transparent)
+
+
