@@ -30,3 +30,5 @@ I'm constantly seeking challenges to enhance my skills. :dart:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianSouza12&show_icons=true&theme=transparent)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianSouza12&hide_progress&=true)
+
