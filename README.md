@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Christian Souza. :grinning:
+<b>I'm Christian Souza. :grinning:
 
 A full Stack developer passionate about technologies and innovative solutions. :computer:
 
@@ -19,7 +19,7 @@ With experience in:
 I'm constantly seeking challenges to enhance my skills. :dart:
 
 
-<b>Connect with me :</b>
+Connect with me :</b>
 
 
 <a href="https://www.linkedin.com/in/christian-souzaa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
