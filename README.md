@@ -1,39 +1,42 @@
-### Hi 👋
+### Olá 👋
 
-<b>I'm Christian Souza. :grinning:
+<b>Sou o Christian Souza. :grinning:
 
-A full Stack developer passionate about technologies and innovative solutions. :computer:
+Estudante de **Quality Assurance (QA)** e apaixonado por garantir a qualidade de software por meio de testes, validações, automação e boas práticas. :test_tube:  
+Gosto de entender problemas, encontrar falhas, melhorar processos e entregar aplicações mais estáveis e funcionais.
 
-With experience in:
+Atualmente estudo e pratico:
 
 <br>
 
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5-logo">
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3-logo">
- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript-logo">
- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs-logo">
- <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="expressJs-logo">
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo">
-<br>
-<br>
+<!-- BADGES DE TECNOLOGIAS -->
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/CodeceptJS-E0234E?style=for-the-badge&logo=testing-library&logoColor=white">
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white">
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-I'm constantly seeking challenges to enhance my skills. :dart:
-
-
-Connect with me :</b>
 <br>
 <br>
 
+Estou constantemente estudando para evoluir como QA, aprendendo sobre testes manuais, automatizados, testes de API, relatórios de defeito, metodologia ágil, análise de requisitos e boas práticas. :dart:
 
-<a href="https://www.linkedin.com/in/christian-souzaa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+Conecte-se comigo:</b>
+<br>
+<br>
 
-<a href="https://www.instagram.com/christiann_souza/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/christian-souzaa/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+
 
 <br>
-<br> 
+<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianSouza12&show_icons=true&theme=transparent)
+<!-- GITHUB STATS -->
+![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianSouza12&show_icons=true&theme=transparent)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianSouza12&hide_progress&=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianSouza12&layout=compact&theme=transparent)
