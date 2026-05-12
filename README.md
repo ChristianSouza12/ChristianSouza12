@@ -76,4 +76,4 @@ Meu objetivo é atuar como **QA Júnior**, contribuindo para entregar produtos m
 
 
 ---
-
+![snake gif](https://github.com/ChristianSouza12/ChristianSouza12/raw/output/github-contribution-grid-snake-dark.svg)
