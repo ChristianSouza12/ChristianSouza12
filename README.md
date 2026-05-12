@@ -49,8 +49,19 @@ Meu objetivo é atuar como **QA Júnior**, contribuindo para entregar produtos m
 
 ## 🚀 Projetos em Destaque
 
+🔹 **Automação E2E com Cypress + Cucumber**  
+Projeto completo de automação End-to-End utilizando Cypress, BDD, Page Object Pattern, Faker, Mochawesome e GitHub Actions.
+
+🔗 https://github.com/ChristianSouza12/cypress-cucumber-e2e-tests
+
+<br>
+
 🔹 **Automação de Login – CodeceptJS + Playwright**  
+Projeto focado em automação de login utilizando CodeceptJS e Playwright.
+
 🔗 https://github.com/ChristianSouza12/codeceptjs-login-automation
+
+<br>
 
 🔹 **Mais projetos em breve** (estudando e praticando todos os dias 🔥)
 
@@ -60,9 +71,7 @@ Meu objetivo é atuar como **QA Júnior**, contribuindo para entregar produtos m
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ChristianSouza12&show_icons=true&theme=transparent&count_private=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianSouza12&layout=compact&theme=transparent" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChristianSouza12&theme=github_dark" />
 
 </p>
 
